@@ -1,0 +1,3 @@
+(touch) is use for make multiple files in a folder In Terminal
+
+(mkdir) is use for make multiple folders in a folder In Terminal
