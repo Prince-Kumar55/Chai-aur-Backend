@@ -1,0 +1,6 @@
+(touch) is use for make multiple files in a folder In Terminal
+
+(mkdir) is use for make multiple folders in a folder In Terminal
+
+data base se jab bhi aap baat kerne ki kosis krenge  tho problems aa sakti hai
+(Try catch mainbaat kro) and (ayshic await use kro)
